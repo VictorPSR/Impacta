@@ -1,5 +1,4 @@
 # Impacta
-Aula #1 Github
-VCS 
-
-Sempre faça um commit diretamente no branch. 
+Aula #1 Github <br />
+VCS <br />
+Sempre faça um commit diretamente no branch. <br />
